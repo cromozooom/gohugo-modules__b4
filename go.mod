@@ -1,4 +1,4 @@
-module github.com/cromozooom/gohugo-modules__b4
+module github.com/cromozooom/gohugo-modules__b4 V1.0.0+incompatible // indirect
 
 go 1.16
 
