@@ -2,4 +2,4 @@ module github.com/cromozooom/gohugo-modules__b4
 
 go 1.16
 
-require github.com/twbs/bootstrap v4
+require github.com/twbs/bootstrap v4.1.6+incompatible // indirect
